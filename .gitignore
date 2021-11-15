@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# editor
+.vscode/
+
+# macos
+.DS_Store
+
+# exclude data because of the size
+data/
+videos/
+imgs/
